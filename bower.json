@@ -1,0 +1,14 @@
+{
+  "name": "Nadoroge",
+  "description": "My awesome nadoroge app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor/bower_dl",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
